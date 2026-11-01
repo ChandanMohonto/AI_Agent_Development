@@ -823,7 +823,6 @@ So, am you a good coder yet? Well, maybe not yet, but you're on the right track!
 You : 
 ```
 
-
 <!-- e.g. Same behaviour as P2, but the code is much cleaner. -->
 
 ---
